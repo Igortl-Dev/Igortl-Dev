@@ -1,25 +1,15 @@
 ## Olá! Eu sou o Igor lima
-Sou desenvolvedor full stack. Tenho 2 anos de experiência profissional, atuando tanto no back-end quanto no front-end.
-
-Trabalhei em alguns projetos freelancers e nessas experiências criei um sistema de agendamento para salão de beleza, composto por aplicação desktop (recepção) e aplicação web (funcionários e clientes), onde implementei funcionalidades como gerenciamento de agendamentos, cadastro de clientes e controle de permissões por níveis de usuário.
-Tecnologias utilizadas:
-
-Desktop: C# + Guna Framework
-
-Web: HTML5, CSS3, JavaScript e PHP
-
-Banco de Dados: MySQL compartilhado entre os sistemas
-
-Nos últimos dois anos, trabalhei profissionalmente com as seguintes tecnologias: Python, Node.js, PHP, C#, JavaScript, MySQL, SQL, Bootstrap
+Desde muito jovem, sempre tive uma grande paixão por tecnologia, o que me levou a seguir a área de Informática. Recentemente, concluí o curso Técnico em Informática, com ênfase em Programação, onde me destaquei e adquiri experiência prática com PHP, C#, JavaScript, HTML, CSS e Bootstrap, o que me permitiu aplicar meus conhecimentos em projetos práticos e desenvolver habilidades em criação de sistemas e websites. Também adquiri uma introdução sólida a conceitos de Redes e Manutenção de Computadores.
 
 ##
 
 <div>
-  <a href="https://github.com/igortl-dev">
+  <a href="https://github.com/igottl-dev">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igortl-dev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igortl-dev&layout=compact&langs_count=16&theme=github_dark" />
-  </a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igortl-dev&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
+
+
 
  ##
     
