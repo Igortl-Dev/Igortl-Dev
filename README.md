@@ -1,5 +1,16 @@
 ## Olá! Eu sou o Igor lima
-Desde muito jovem, sempre tive uma grande paixão por tecnologia, o que me levou a seguir a área de Informática. Recentemente, concluí o curso Técnico em Informática, com ênfase em Programação, onde me destaquei e adquiri experiência prática com PHP, C#, JavaScript, HTML, CSS e Bootstrap, o que me permitiu aplicar meus conhecimentos em projetos práticos e desenvolver habilidades em criação de sistemas e websites. Também adquiri uma introdução sólida a conceitos de Redes e Manutenção de Computadores.
+Sou desenvolvedor full stack. Tenho 2 anos de experiência profissional, atuando tanto no back-end quanto no front-end.
+
+Trabalhei em alguns projetos freelancers e nessas experiências criei um sistema de agendamento para salão de beleza, composto por aplicação desktop (recepção) e aplicação web (funcionários e clientes), onde implementei funcionalidades como gerenciamento de agendamentos, cadastro de clientes e controle de permissões por níveis de usuário.
+Tecnologias utilizadas:
+
+Desktop: C# + Guna Framework
+
+Web: HTML5, CSS3, JavaScript e PHP
+
+Banco de Dados: MySQL compartilhado entre os sistemas
+
+Nos últimos dois anos, trabalhei profissionalmente com as seguintes tecnologias: Python, Node.js, PHP, C#, JavaScript, MySQL, SQL, Bootstrap
 
 ##
 
